@@ -18,3 +18,5 @@ abstract class QuizCommandYay implements theSum{
 		System.out.println("The answer is "+sumA);
 	}
 }
+
+//Anoushka is the best -From Divya
